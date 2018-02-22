@@ -1,0 +1,9 @@
+body {
+    font: normal normal 14px Helvetica, Geneva, Verdana, Arial, sans-serif;
+}
+.titre {
+    font: bold 32px Helvetica, Geneva, Verdana, Arial, sans-serif;
+    color: #1034A6;
+    display:inline-block;
+    vertical-align:middle;
+}
